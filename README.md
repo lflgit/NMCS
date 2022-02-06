@@ -1,6 +1,7 @@
 # NMCS
 A Stacked Multiple Classifier System (MCS) with a sample refining mechanism to improve classification accuracy.
-Please cite the author's publication if you used this code or made modification to this code for your own projects. 
+Please cite the author's publication if you used this code or made modification to this code for your own projects.
+Key words: Machine learning, remote sensing, classifier ensemble, urban settlement and land cover classification
 
 # User Guide
 This script was developed in Google Colabs with python language. The steps are self-explantory in the script. 
