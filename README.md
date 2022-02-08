@@ -3,7 +3,7 @@ A Stacked Multiple Classifier System (MCS) with a sample refining mechanism to i
 Please cite the author's publication if you used this code or made modification to this code for your own projects.
 
 ### User Guide
-This script was developed in Google Colabs with python language. The steps are self-explantory in the script. 
+This script was developed with Google Colabs in python. The steps are self-explantory in the script. 
 
 ### Configuration and Setup
 Connections to Google Earth Engine (GEE) and Google Drive are not requried. They are used in the script because the base 
