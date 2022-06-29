@@ -1,5 +1,6 @@
 # NMCS
 A Stacked Multiple Classifier System (MCS) with a sample refining mechanism to improve classification accuracy.
+DOI: https://doi.org/10.14358/PERS.21-00035R3 
 
 ### User Guide
 This script was written in python and run with Google Colabs. The steps are self-explantory in the script. 
@@ -12,6 +13,6 @@ your own classification maps as the base classification results.
 ### Keywords
 Machine learning, Remote Sensing, Semantic Segmentation, Landsat, Google Earth Engine, Land Cover and Land Use
 
-### Suggested citation (to be updated)
-Lai, F. and Yang, X. 2022. Improving land cover classification over a large coastal city through stacked generalization with filtered training samples. Photogrammetric Engineering & Remote Sensing (accepted)
+### Suggested citation 
+Lai, F. and Yang, X. 2022. Improving land cover classification over a large coastal city through stacked generalization with filtered training samples. Photogrammetric Engineering & Remote Sensing. 88(7): 451-459
 
